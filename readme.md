@@ -99,7 +99,7 @@ json
 curl --location 'http://localhost:8080/translate' \
 --header 'Content-Type: application/json' \
 --data '{
-  "q": "один два три четыре пять шесть семь восемь девять десять одинадцать двенадцать тринадцать четырнадцать пятнадцать шеснадцать семнадцать восемнадцать девятнадцать двадцать",
+  "q": "Что угодно",
   "source": "ru",
   "target": "de",
   "format": "text"
